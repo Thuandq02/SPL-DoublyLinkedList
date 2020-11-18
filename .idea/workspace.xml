@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d526f68f-8536-4da5-b461-7476b8e348d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/AbstractClass/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/AbstractClass/Fruit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Animals/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Fruits/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Fruits/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array&amp;amp/TH1/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array&amp;amp/TH1/listInteger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array&amp;amp/TH2/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array&amp;amp/TH2/LinkedListMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array&amp;amp/TH2/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clean_Code/TH1/php-cleancode-refactoring-renaming/src/Calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clean_Code/TH1/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SplStack/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Square-Dancer/Dancer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Square-Dancer/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/2d-3d/Point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/2d-3d/Point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/2d-3d/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Circle-Cylinder/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Circle-Cylinder/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Circle-Cylinder/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Point-MoveablePoint/MoveablePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Point-MoveablePoint/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Point-MoveablePoint/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack-Queue-Tree/Patient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack-Queue-Tree/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack-Queue-Tree/Stack.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Shape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/Application2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/Application2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kRlwAzBTV4z1W1muH9VTQMDGsK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Square-Dancer" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d526f68f-8536-4da5-b461-7476b8e348d3" name="Default Changelist" comment="" />
+      <created>1605671520449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605671520449</updated>
+      <workItem from="1605671521739" duration="6009000" />
+      <workItem from="1605687969941" duration="711000" />
+      <workItem from="1605716263427" duration="908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="272" width="441" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1605671763243">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="337" y="272" width="441" height="576" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1605671763243" />
+    <state x="319" y="273" width="409" height="568" key="NewPhpClassDialog" timestamp="1605671569865">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="319" y="273" width="409" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605671569865" />
+    <state x="324" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1605716409974">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="324" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605716409974" />
+    <state x="117" y="63" width="1125" height="926" key="SettingsEditor" timestamp="1605688073447">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="117" y="63" width="1125" height="926" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1605688073447" />
+  </component>
+</project>
